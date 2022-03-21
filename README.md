@@ -8,6 +8,7 @@ This project provides the codes and results for ''
 
 2. RGB_D SOD datasets
    
+   training and testing data can be downloaded from [RGB_D datasets](https://pan.baidu.com/s/1JEIZzYCJLkr1m1fde9hfXg) (sewq)
+   
    Saliency maps obtained by training 1485 sample pairs from the NJU2K and 700 from NLPR. [RGB_D Saliency Map](https://pan.baidu.com/s/1bPwNzmvFm2dOqfgccmnUiQ) (d1la)
 
-3. HHU. [RGB_T Saliency Map](https://pan.baidu.com/s/1jn6Y9vi7qhnTIpHiW8anWA) ()
