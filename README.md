@@ -1,6 +1,6 @@
 # ACMANet
 
-This project provides the codes and results for 'Asymmetric Cross-Modal Activation Network for RGB-T Salient Object Detection'.
+This project provides the codes and results for 'Asymmetric Cross-Modal Activation Network'.
 
 ## Saliency Map Results
 1. VT5000, VT1000, VT821
